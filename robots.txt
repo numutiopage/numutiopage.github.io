@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://numutiopage.github.io/sitemap
+Sitemap: https://numutiopage.github.io/app/sitemap
+Sitemap: https://numutiopage.github.io/assets/sitemap
+Sitemap: https://numutiopage.github.io/css/sitemap
+Sitemap: https://numutiopage.github.io/includes/sitemap
+Sitemap: https://numutiopage.github.io/item/sitemap
+Sitemap: https://numutiopage.github.io/src/sitemap
